@@ -1,6 +1,6 @@
 {
   "variants": {
-    " ": {
+    "": {
       "model": "testmod:block/cement"
     }
   }

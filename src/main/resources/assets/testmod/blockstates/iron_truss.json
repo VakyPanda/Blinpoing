@@ -1,7 +1,16 @@
 {
   "variants": {
-    " ": {
-      "model": "testmod:block/iron_truss"
+    "axis=x": {
+      "model": "minecraft:block/iron_truss_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "minecraft:block/iron_truss"
+    },
+    "axis=z": {
+      "model": "minecraft:block/iron_truss_horizontal",
+      "x": 90
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "variants": {
-    " ": {
-      "model": "testmod:block/tread_plate"
+    "": {
+      "model":"testmod:block/tread_plate"
     }
   }
 }
