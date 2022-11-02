@@ -1,0 +1,10 @@
+{
+  "item.testmod.magnesium": "Magnesium",
+  "item.testmod.carbon": "Carbon",
+
+  "block.testmod.cement" : "Cement",
+  "block.testmod.iron_truss" : "Iron Truss",
+  "block.testmod.tread_plate" : "Tread Plate",
+
+  "itemGroup.testtab": "Blinpoing"
+}
